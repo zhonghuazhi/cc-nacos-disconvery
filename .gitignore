@@ -10,6 +10,9 @@
 *.ctxt
 
 .idea
+.mvn
+mvnw
+mvnw.cmd
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
